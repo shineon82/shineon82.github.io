@@ -13,6 +13,8 @@ tags:
   - trekking
   - traversate
   - viadelsale
+bigimg:
+  - /img/big/montalto-pavese.jpg: null
 ---
 
 #### Giorno 49 di quarantena. <small>Post ironico, non volto a sminuire la serietà della situazione.</small>
