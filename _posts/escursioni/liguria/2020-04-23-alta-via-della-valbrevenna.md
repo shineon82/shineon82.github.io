@@ -12,6 +12,8 @@ tags:
   - trekking
   - trekking di compleanno
 image: /img/featured/valbrevenna.jpg
+bigimg:
+  - /img/big/valbrevenna.jpg: La Valbrevenna dal monte Duso (2019)
 ---
 
 L'idea di fare un trekking ad anello nella selvaggia Valbrevenna frullava nella mia testa già da qualche tempo, l'esperienza di due signori letta mesi fa su Facebook ne ha accelerato la programmazione.
