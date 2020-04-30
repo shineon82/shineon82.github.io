@@ -14,10 +14,7 @@ tags:
   - traversate
   - viadelsale
 bigimg:
-  - /img/big/montalto-pavese.jpg: >-
-      <a
-      href=https://commons.wikimedia.org/wiki/File:Dalla_Rivazza_a_Montalto_Pavese_-_panoramio.jpg>Terensky
-      / CC BY</a>
+  - /img/big/montalto-pavese.jpg: 'La Costa Pelata e, sulla destra, Montalto Pavese (Terensky / CC BY)'
 ---
 
 #### Giorno 49 di quarantena. <small>Post ironico, non volto a sminuire la serietà della situazione.</small>
