@@ -15,8 +15,9 @@ tags:
   - viadelsale
 bigimg:
   - /img/big/montalto-pavese.jpg: >-
-      [Terensky / CC
-      BY](https://commons.wikimedia.org/wiki/File:Dalla_Rivazza_a_Montalto_Pavese_-_panoramio.jpg)
+      <a
+      href=https://commons.wikimedia.org/wiki/File:Dalla_Rivazza_a_Montalto_Pavese_-_panoramio.jpg>Terensky
+      / CC BY</a>
 ---
 
 #### Giorno 49 di quarantena. <small>Post ironico, non volto a sminuire la serietà della situazione.</small>
